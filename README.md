@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.1.
 
-## By **Nathan Ng'ethe**
+## By **Tina Tasha**
 
 
 ## Description
@@ -22,17 +22,13 @@ First run:
 Then navigate to `http://localhost:4200/` on your browser.
 
 #### Live link
-If you don't want to run the app from your local browser you can acces it through the live link: https://lendilai.github.io/Git-Tracker/
+If you don't want to run the app from your local browser you can acces it through the live link: 
 
 ## Working mechanism
 - Enter the username of the user you wish to view.
 - Submit by either hitting enter or clicking the **Search** button.
 - The user's avatar is displayed and you can click on the user icon to view the details.
 - You can also view the user on github by clicking the button.
-
-
-## Demo
-![](src/assets/demo.gif)
 
 ## Technologies used
 * [HTML & CSS](https://www.w3schools.com/html/html_css.asp) - HTML used to create the backbone of the application whereas CSS was used to style the elements.
@@ -74,10 +70,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 ## LICENSE
 The application is under an [MIT License](https://github.com/lendilai/Git-Tracker/blob/master/License.txt).
-
-
-## Contact Information
-You can contact me via my gmail account:ngethenan768@gmail.com or using my phone number: +254 706446072
 
 ## Further help
 
